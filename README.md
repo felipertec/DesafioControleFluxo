@@ -1,4 +1,4 @@
-# Desafio Dio Contador de Fluxo
+# Desafio Dio Controle de Fluxo
 
 Nesse desafio é passado dois valores e ele é tratado via Exception
 verificando assim se o primeiro valor é maior que o segundo valor,
