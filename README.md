@@ -4,11 +4,13 @@ Nesse desafio é passado dois valores e ele é tratado via Exception
 verificando assim se o primeiro valor é maior que o segundo valor,
 Caso o primeiro valor seja maior é enviado exception retornando uma mensagem de erro finalizando a aplicação.
 
+O numero esta sendo gerado randomicamente para melhores teste com o Exception.
+
 ## IDE Utilizada
 
     - VS Code: Editor de codigo-fonte desenvolvido pela Microsoft
-    
-      
+
+
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
